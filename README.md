@@ -22,7 +22,6 @@
 - 📱 Fully responsive UI (Bootstrap)
 - 💥 Error messages with validations
 - 🎨 Floating label form design
-- 🌐 Hosted using Django’s dev server (or production-ready setup)
 
 ---
 
